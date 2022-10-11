@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "A propos"
+title: "Un mot sur l'auteur"
 permalink: /a-propos/
 ---
 Bonjour, 
@@ -9,7 +9,7 @@ Bonjour,
 
 Je vous accueille ici dans mon jardin numérique. C'est le cadre idéal pour vous partager mes réflexions sur les sujets qui me passionnent. 
 
-La conception du jardin numérique étant un processus évolutif, il sera question d'explorer de nouvelles idées et de parfaire les précédentes. Voir l'article sur [[Le jardin et le flux!]]
+La conception du jardin numérique étant un processus évolutif, il sera question d'explorer de nouvelles idées et de parfaire les précédentes.
 
 Avec une compréhension approfondie de l'industrie de la construction et de l'immobilier, je m'intéresse à la gestion des actifs immobiliers dans un environnement bâti plus résilient.
 
