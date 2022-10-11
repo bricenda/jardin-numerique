@@ -3,7 +3,7 @@ layout: page
 title: "Un mot sur l'auteur"
 permalink: /à-propos/
 ---
-Bonjour, 
+Bonjour et bienvenue 🌱
 
 **Je suis [Brice Nda](https://www.bricenda.net) **
 
