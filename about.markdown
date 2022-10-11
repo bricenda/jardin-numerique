@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Un mot sur l'auteur"
-permalink: /a-propos/
+permalink: /à-propos/
 ---
 Bonjour, 
 
